@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &129729194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1700268052932515915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bdb18a305e84ab4fad69f1ba8da80c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  dialogue: {fileID: 0}
+  data: {fileID: 0}
+  hoverText: Change Clothes
+--- !u!1001 &2555794291627638635
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3810205353129502496, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_Name
+      value: Closet Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 31.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.125
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 20.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.625
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810205353129502511, guid: e023569bbdfcbf84f8a0db61ba144a52,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.125
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e023569bbdfcbf84f8a0db61ba144a52, type: 3}
+--- !u!1 &1700268052932515915 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3810205353129502496, guid: e023569bbdfcbf84f8a0db61ba144a52,
+    type: 3}
+  m_PrefabInstance: {fileID: 2555794291627638635}
+  m_PrefabAsset: {fileID: 0}

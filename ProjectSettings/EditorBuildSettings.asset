@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/PittsburghTerrain.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/DormFloor.unity
+    guid: 834ac9a9a4324234db8917ea92e165d6
+  - enabled: 0
+    path: Assets/Scenes/CMUMap.unity
+    guid: cdb901ff84105044fabb7164bb5b5f79
+  - enabled: 0
+    path: Assets/Scenes/Switch.unity
+    guid: 6b2688c929f233f4d9457fb7c6b8955c
+  - enabled: 0
+    path: Assets/Scenes/Smash.unity
+    guid: 69b4d9c4ec8c07545ab2cc8aecf145da
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/CustomHands.unity
+    guid: a4f984fcee593d2418cc61f4a993d46d
+  m_configObjects: {}
